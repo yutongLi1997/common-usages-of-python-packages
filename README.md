@@ -1,2 +1,5 @@
-# common-usages-of-python-packages
-This project is a simple demo shows some basic usages of common python packages including csv, Elementree, json, matplotlib
+# The Data
+The data is available in the data/ directory.
+
+# Overview
+This project is about working with XML, CSV, and JSON files with data related to a Pizza Shop! The script includes reading and writing data files, and a set of sample of input and output files are provided for you as an example of the format of the expected output.
